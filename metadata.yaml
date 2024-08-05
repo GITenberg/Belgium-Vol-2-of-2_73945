@@ -1,0 +1,36 @@
+_repo: Belgium-Vol-2-of-2_73945
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tennent, James Emerson, Sir
+    aliases:
+    - Tennent, J. Emerson (James Emerson), Sir
+    - Emerson, James
+    birthdate: 1804
+    deathdate: 1869
+    gutenberg_agent_id: '5125'
+    url: http://www.gutenberg.org/2009/agents/5125
+    wikipedia: https://en.wikipedia.org/wiki/James_Emerson_Tennent
+description: ''
+gutenberg_issued: '2024-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73945'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/008586571
+pgterms:marc905: 20220419113814tennent
+pgterms:marc906: '1841'
+pgterms:marc907: gb
+production_note: Peter Becker, Eleni Christofaki and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aLondon :$bR. Bentley, $c1841.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Belgium -- Description and travel'
+- !lcc 'DH'
+- GITenberg
+title: Belgium, Vol. 2 (of 2)
+url: http://www.gutenberg.org/ebooks/73945
